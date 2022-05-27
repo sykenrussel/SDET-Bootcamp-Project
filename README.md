@@ -1,2 +1,2 @@
-# SDET-Bootcamp-Project
-This is for PlanIT 2022 Bootcamp
+# sdet-bootcamp-may-2022
+
